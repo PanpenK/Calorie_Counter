@@ -18,6 +18,19 @@ Calorie Counter is a web-based application that helps users track and manage the
 - **CSS**: Handles the visual styling and layout of application elements.
 - **JavaScript**: Manages user interactions, performs dynamic updates, and calculates remaining calories.
 
+## Learning Outcomes
+
+The development of the Calorie Counter application was an enriching experience that contributed significantly to my understanding and skills in web development. The key learning outcomes from this project include:
+
+- **HTML & CSS Proficiency**: Gained a thorough understanding of HTML and CSS, utilizing them to structure and style the application for an intuitive and user-friendly interface.
+
+- **JavaScript Application**: Enhanced my knowledge of JavaScript, applying it to create dynamic and interactive user experiences. This included handling user inputs, calculating calorie intake, and updating the UI in real time.
+
+- **Dynamic UI Updates**: Mastered manipulating the Document Object Model (DOM) with JavaScript to dynamically update the user interface, displaying calculated results and input history without page reloads.
+
+- **Responsive Web Design**: Implemented responsive design principles, ensuring the application is accessible and functional across a variety of devices and screen sizes.
+
+
 ## How to Use
 
 1. Clone this repository to your local machine.
