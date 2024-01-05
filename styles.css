@@ -1,0 +1,104 @@
+body {
+    background-color: #0a0a23;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  main {
+    max-width: 680px;
+    width: 90%;
+    margin: 20px auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #budget-label {
+    font-size: 20px; 
+  }
+
+  #budget {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+
+  .container {
+    background-color: #ffffff;
+    color: #0a0a23;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label,
+  legend {
+    font-weight: bold;
+  }
+  
+  .input-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  fieldset {
+    margin-bottom: 20px; /* Increase spacing between fieldsets */
+  } 
+
+  button {
+    cursor: pointer;
+    background-color: #feac32;
+    border: 2px solid #feac32;
+    padding: 5px 10px;
+    font-size: 14px;
+    border-radius: 3px;
+    transition: background-color 0.3s;
+    margin-top: 10px;
+  }
+  
+  button:hover {
+    background-color: #ffcc4c;
+  }
+  
+  #clear:hover {
+    background-color: #ffb84c; /* Different color for the Clear button */
+  }
+  
+  .controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  #output {
+    border: 2px solid #0a0a23;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .hide {
+    display: none;
+  }
+  
+  .surplus {
+    color: #acd157;
+  }
+  
+  .deficit {
+    color: #ffadad;
+  }
+  
